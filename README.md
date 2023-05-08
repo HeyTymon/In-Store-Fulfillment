@@ -1,6 +1,6 @@
 ## In store Fulfillment - Ocado Intership Project
 
-# This project was made for the Ocado intership program. The main goal of the program execution is to
+This project was made for the Ocado intership program. The main goal of the program execution is to
 assign the list of orders to the pickers.
 
 1. Running the program 
